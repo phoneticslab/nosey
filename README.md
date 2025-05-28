@@ -32,7 +32,7 @@ Hardware:
 
 ### Baffle Modification
 
-To modify the shape of the baffle modify the **Baffle Profile sketch**, to change the position of the cutout for the articulated holder, modify the **Articulated Cutout** sketch.
+To modify the shape of the baffle modify the **Baffle Profile** sketch, to change the position of the cutout for the articulated dual-microphone holder, modify the **Articulated Cutout** sketch.
 
 ![alt text](figs/sketch_tree.png)
 
