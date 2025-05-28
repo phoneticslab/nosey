@@ -9,9 +9,9 @@ If you use this in your research please cite the following paper, which also con
 
 ## 3D Files
 
-These were created in FreeCAD version 1.0, there are 4 primary parts, and an assembly file. 
+These files were created (and can be edited) using FreeCAD version 1.0, which is open-source software that can be used for free: https://www.freecad.org
 
-The microphone holder was designed for AKG CK99L microphones.
+The system comprises 4 primary parts, and an assembly file. The microphone holder was designed for AKG CK99L microphones, but it is possible to adapt these for different microphones.
 
 ### Parts List
 
@@ -32,15 +32,15 @@ Hardware:
 
 ### Baffle Modification
 
-To modify the shape of the baffle modify the Baffle Profile sketch, to change the position of the cutout for the articulated holder, modify the articulated cutout sketch.
+To modify the shape of the baffle modify the **Baffle Profile sketch**, to change the position of the cutout for the articulated holder, modify the **Articulated Cutout** sketch.
 
 ![alt text](Figures/sketch_tree.png)
 
-The Baffle Profile sketch allows you to change the shape of the profile that pushes up against the subject's face. The following highlighted dimensions are a good place to start with the modifications:
+The **Baffle Profile** sketch allows you to change the shape of the profile that pushes up against the subject's face. The following highlighted dimensions are a good place to start with the modifications:
 
 ![](Figures/baffle_edit.png)
 
-To modify the position of the cutout for the articulated mic plate, and thus, the distance from the front of the baffle, edit the articulated cutout sketch:
+To modify the position of the cutout for the articulated microphone plate, and thus, the distance from the front of the baffle, edit the **Articulated Cutout** sketch:
 
 ![](Figures/cutout.png)
 
