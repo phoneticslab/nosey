@@ -1,6 +1,11 @@
 # Nosey
 
-Open-source hardware for acoustic nasalance
+Open-source hardware for acoustic nasalance.
+
+If you use this in your research please cite the following paper, which also contains more information on the set-up, validation, and customization:
+
+* Dewhurst, Maya, Jack Collins, Justin J. H. Lo, Roy Alderton & **Sam Kirkham**. 2025. Nosey: Open-source hardware for acoustic nasalance. *Proceedings of Interspeech 2025* 1-5. [[arXiv]]()
+
 
 ## 3D Files
 
