@@ -1,10 +1,10 @@
 # Nosey
 
-Open-source hardware for acoustic nasalance.
+Nosey stands for **N**asalance **O**pen **S**ource **E**stimation s**Y**stem. It is an open-source hardware platform for collecting acoustic nasalance data.
 
 If you use this in your research please cite the following paper, which also contains more information on the set-up, validation, and customization of the system:
 
-* Dewhurst, Maya, Jack Collins, Justin J. H. Lo, Roy Alderton & Sam Kirkham. 2025. Nosey: Open-source hardware for acoustic nasalance. *Proceedings of Interspeech 2025* 1-5. [[arXiv]]()
+* Dewhurst, Maya, Jack Collins, Justin J. H. Lo, Roy Alderton & Sam Kirkham. 2025. Nosey: Open-source hardware for acoustic nasalance. *Proceedings of Interspeech 2025*. [[arXiv]]()
 
 
 ## 3D Files
