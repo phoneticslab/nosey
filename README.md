@@ -22,7 +22,7 @@ The system comprises 4 primary parts, and an assembly file. The microphone holde
 - Mic Holder x 2 (5 - in assembly guide section)
 - Baffle x 1 (3)
 
-![](Figures/assembly.png)
+![](figs/assembly.png)
 
 Hardware:
 
@@ -34,25 +34,25 @@ Hardware:
 
 To modify the shape of the baffle modify the **Baffle Profile sketch**, to change the position of the cutout for the articulated holder, modify the **Articulated Cutout** sketch.
 
-![alt text](Figures/sketch_tree.png)
+![alt text](figs/sketch_tree.png)
 
 The **Baffle Profile** sketch allows you to change the shape of the profile that pushes up against the subject's face. The following highlighted dimensions are a good place to start with the modifications:
 
-![](Figures/baffle_edit.png)
+![](figs/baffle_edit.png)
 
 To modify the position of the cutout for the articulated microphone plate, and thus, the distance from the front of the baffle, edit the **Articulated Cutout** sketch:
 
-![](Figures/cutout.png)
+![](figs/cutout.png)
 
 ### Assembly Guide
 
 The exploded diagram below shows how the device fits together:
 
-![Exploded Diagram](Figures/exploded.png)
+![Exploded Diagram](figs/exploded.png)
 
 The M3 nuts can be pushed into the microphone plate hexagonal pockets. Depending on the precision of your 3D printer you may need to adjust the size of these holes. The M3 nuts can be seen below, the bolt is sticking out of the nut highlighted by bubble 6.
 
-![Microphone Plate](Figures/mic.png)
+![Microphone Plate](figs/mic.png)
 
 The flat edge of the microphone holder should line up with the flat edge of the articulated microphone plate holder.
 
@@ -60,6 +60,6 @@ The flat edge of the microphone holder should line up with the flat edge of the 
 
 The microphone holder and articulated microphone plate have been designed to be printed in the following way:
 
-![alt text](Figures/articulate_print.png)
+![alt text](figs/articulate_print.png)
 
-![alt text](Figures/mic%20holder_print.png)
+![alt text](figs/mic%20holder_print.png)
