@@ -14,7 +14,7 @@ These files were created (and can be edited) using FreeCAD version 1.0, which is
 We have provided files in two formats:
 
 - `.3mf`: 3D Manufacturing Format files, which can be used for 3D printing.
-- ``.FCStd`: FreeCAD files that can be edited and adapted for further customization.
+- `.FCStd`: FreeCAD files that can be edited and adapted for further customization.
 
 The system comprises 4 primary parts, and an assembly file. The microphone holder was designed for AKG CK99L microphones, but it is possible to adapt these for different microphones.
 
