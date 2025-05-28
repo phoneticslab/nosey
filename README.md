@@ -1,6 +1,6 @@
 # Nosey
 
-Nosey stands for **N**asalance **O**pen **S**ource **E**stimation s**Y**stem. It is an open-source hardware platform for collecting acoustic nasalance data.
+`Nosey` is the **N**asalance **O**pen **S**ource **E**stimation s**Y**stem. It is an open-source hardware platform for collecting acoustic nasalance data.
 
 If you use this in your research please cite the following paper, which also contains more information on the set-up, validation, and customization of the system:
 
@@ -9,9 +9,15 @@ If you use this in your research please cite the following paper, which also con
 
 ## 3D Files
 
-These files were created (and can be edited) using FreeCAD version 1.0, which is open-source software that can be used for free: https://www.freecad.org
+These files were created (and can be edited) using FreeCAD version 1.0, which is open-source software that can be downloaded at: https://www.freecad.org
+
+We have provided files in two formats:
+
+- `.3mf`: 3D Manufacturing Format files, which can be used for 3D printing.
+- ``.FCStd`: FreeCAD files that can be edited and adapted for further customization.
 
 The system comprises 4 primary parts, and an assembly file. The microphone holder was designed for AKG CK99L microphones, but it is possible to adapt these for different microphones.
+
 
 ### Parts List
 
@@ -30,6 +36,7 @@ Hardware:
 - M8 Bolt 12mm long x 1 
 - Coating for sealing the plastic
 
+
 ### Baffle Modification
 
 To modify the shape of the baffle modify the **Baffle Profile** sketch, to change the position of the cutout for the articulated dual-microphone holder, modify the **Articulated Cutout** sketch.
@@ -44,6 +51,7 @@ To modify the position of the cutout for the articulated microphone plate, and t
 
 ![](figs/cutout.png)
 
+
 ### Assembly Guide
 
 The exploded diagram below shows how the device fits together:
@@ -55,6 +63,7 @@ The M3 nuts can be pushed into the microphone plate hexagonal pockets. Depending
 ![Microphone Plate](figs/mic.png)
 
 The flat edge of the microphone holder should line up with the flat edge of the articulated microphone plate holder.
+
 
 ### Printing Recommendations
 
