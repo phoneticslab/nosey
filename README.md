@@ -62,4 +62,4 @@ The microphone holder and articulated microphone plate have been designed to be 
 
 ![alt text](figs/articulate_print.png)
 
-![alt text](figs/mic%20holder_print.png)
+![alt text](figs/mic_holder_print.png)
