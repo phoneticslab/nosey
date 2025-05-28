@@ -2,7 +2,7 @@
 
 Open-source hardware for acoustic nasalance.
 
-If you use this in your research please cite the following paper, which also contains more information on the set-up, validation, and customization:
+If you use this in your research please cite the following paper, which also contains more information on the set-up, validation, and customization of the system:
 
 * Dewhurst, Maya, Jack Collins, Justin J. H. Lo, Roy Alderton & **Sam Kirkham**. 2025. Nosey: Open-source hardware for acoustic nasalance. *Proceedings of Interspeech 2025* 1-5. [[arXiv]]()
 
@@ -34,11 +34,11 @@ Hardware:
 
 To modify the shape of the baffle modify the Baffle Profile sketch, to change the position of the cutout for the articulated holder, modify the articulated cutout sketch.
 
-![alt text](Figures/sketch%20tree.png)
+![alt text](Figures/sketch_tree.png)
 
 The Baffle Profile sketch allows you to change the shape of the profile that pushes up against the subject's face. The following highlighted dimensions are a good place to start with the modifications:
 
-![](Figures/baffle%20edit.png)
+![](Figures/baffle_edit.png)
 
 To modify the position of the cutout for the articulated mic plate, and thus, the distance from the front of the baffle, edit the articulated cutout sketch:
 
@@ -60,6 +60,6 @@ The flat edge of the microphone holder should line up with the flat edge of the 
 
 The microphone holder and articulated microphone plate have been designed to be printed in the following way:
 
-![alt text](Figures/articulate%20print.png)
+![alt text](Figures/articulate_print.png)
 
-![alt text](Figures/mic%20holder%20print.png)
+![alt text](Figures/mic%20holder_print.png)
