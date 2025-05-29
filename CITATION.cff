@@ -1,0 +1,64 @@
+cff-version: 1.2.0
+title: Nosey
+message: >-
+  If you use this software, please cite it as below:
+type: software
+authors:
+  - given-names: Maya
+    family-names: Dewhurst
+  - given-names: Jack
+    family-names: Collins
+  - given-names: Justin J. H.
+    family-names: Lo
+  - given-names: Roy
+    family-names: Alderton
+  - given-names: Sam
+    family-names: Kirkham
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15543852
+    description: Zenodo
+repository-code: 'https://github.com/phoneticslab/nosey'
+abstract: >-
+  We introduce Nosey (Nasalance Open Source Estimation
+  sYstem), a low-cost, customizable, 3D-printed system for
+  recording acoustic nasalance data that we have made
+  available as open-source hardware
+  (http://github.com/phoneticslab/nosey). We first outline
+  the motivations and design principles behind our hardware
+  nasalance system, and then present a comparison between
+  Nosey and a commercial nasalance device. Nosey shows
+  consistently higher nasalance scores than the commercial
+  device, but the magnitude of contrast between phonological
+  environments is comparable between systems. We also review
+  ways of customizing the hardware to facilitate testing,
+  such as comparison of microphones and different
+  construction materials. We conclude that Nosey is a
+  flexible and cost-effective alternative to commercial
+  nasometry devices and propose some methodological
+  considerations for its use in data collection.
+keywords:
+  - measurement
+  - acoustics
+  - nasalance
+  - nasality
+  - phonetics
+  - speech production
+license: GPL-3.0-only
+preferred-citation:
+  type: proceedings
+  title: "Nosey: Open-source hardware for acoustic nasalance"
+  authors:
+    - family-names: "Dewhurst"
+      given-names: "Maya"
+    - family-names: "Collins"
+      given-names: "Jack"
+    - family-names: "Lo"
+      given-names: "Justin J. H."
+    - family-names: "Alderton"
+      given-names: "Roy"
+    - family-names: "Kirkham"
+      given-names: "Sam"
+  year: 2025
+  collection-title: "Proceedings of Interspeech 2025"
+  doi: ((add arXiv URL here))
