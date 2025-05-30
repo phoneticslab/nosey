@@ -4,7 +4,9 @@
 
 If you use this in your research please cite the following paper, which also contains more information on the set-up, validation, and customization of the system:
 
-* Dewhurst, Maya, Jack Collins, Justin J. H. Lo, Roy Alderton & Sam Kirkham. 2025. Nosey: Open-source hardware for acoustic nasalance. *Proceedings of Interspeech 2025*. ((pre-print link coming soon))
+* Dewhurst, Maya, Jack Collins, Justin J. H. Lo, Roy Alderton & Sam Kirkham. 2025. Nosey: Open-source hardware for acoustic nasalance. *Proceedings of Interspeech 2025*. https://doi.org/10.48550/arXiv.2505.23339
+
+The version described in the paper is `v1.0.0`. This and any future versioned releases are archived via Zenodo: https://doi.org/10.5281/zenodo.15543852
 
 
 ## 3D Files
